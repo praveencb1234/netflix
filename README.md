@@ -12,7 +12,7 @@ This is a clone of netflix app ! exact clone but it provide the movie trailers,d
 
 
 
-![netflix-preview](https://user-images.githubusercontent.com/67305698/178194089-c651e6d3-e1f6-4983-8efd-5327f3521cba.jpg)  # home 
+# home      ![netflix-preview](https://user-images.githubusercontent.com/67305698/178194089-c651e6d3-e1f6-4983-8efd-5327f3521cba.jpg)  
 
 
 
