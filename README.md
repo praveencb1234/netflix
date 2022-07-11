@@ -10,27 +10,29 @@ This is a clone of netflix app ! exact clone but it provide the movie trailers,d
 
 
 
+# home ![netflix-home](https://user-images.githubusercontent.com/67305698/178195394-4bfbc624-abd2-4d63-8900-669cfc14aab8.jpg)
 
 
-# home      ![netflix-preview](https://user-images.githubusercontent.com/67305698/178194089-c651e6d3-e1f6-4983-8efd-5327f3521cba.jpg)  
-
-
-
-
+   # Category  ![netflix-preview](https://user-images.githubusercontent.com/67305698/178194089-c651e6d3-e1f6-4983-8efd-5327f3521cba.jpg)  
 
 
 
 
 
-![netflix-3](https://user-images.githubusercontent.com/67305698/178194554-e1a3c31a-2346-41ac-bb86-e37a545f145b.jpg) # search option
+
+
+
+# Search option>Result
+![netflix-3](https://user-images.githubusercontent.com/67305698/178194554-e1a3c31a-2346-41ac-bb86-e37a545f145b.jpg) 
 
 
 
 
-![netflix-2](https://user-images.githubusercontent.com/67305698/178194824-676cb60d-2bc6-46f4-a59a-0f17a0db1f30.jpg)
+# Categorys ![netflix-2](https://user-images.githubusercontent.com/67305698/178194824-676cb60d-2bc6-46f4-a59a-0f17a0db1f30.jpg)
 
 
 
+# trailer ![netflix-trailer](https://user-images.githubusercontent.com/67305698/178195443-45597c34-69cd-4de6-bb31-6126b249558c.jpg)
 
 
 
