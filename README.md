@@ -6,6 +6,13 @@ This is a clone of netflix app ! exact clone but it provide the movie trailers,d
 
 
 
+# screen  shots 
+
+
+
+
+
+![netflix-preview](https://user-images.githubusercontent.com/67305698/178194089-c651e6d3-e1f6-4983-8efd-5327f3521cba.jpg)  # home 
 
 
 
@@ -15,12 +22,12 @@ This is a clone of netflix app ! exact clone but it provide the movie trailers,d
 
 
 
+![netflix-3](https://user-images.githubusercontent.com/67305698/178194554-e1a3c31a-2346-41ac-bb86-e37a545f145b.jpg) # search option
 
 
 
 
-
-
+![netflix-2](https://user-images.githubusercontent.com/67305698/178194824-676cb60d-2bc6-46f4-a59a-0f17a0db1f30.jpg)
 
 
 
