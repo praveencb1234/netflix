@@ -1,0 +1,29 @@
+
+.img{
+    display: flex;
+
+    
+background-size: cover;
+    border-radius: 20px;
+    border-style: groove;
+border-width: 3px;
+    border-top-color:aqua;
+    border-bottom-color: yellow;
+    border-left-color: rgb(24, 216, 27);
+    border-right-color: rgb(251, 26, 14);
+}
+.rating{
+
+    margin-top: 40px;
+}
+.sum{
+margin-left: -300px;
+    text-align: center;
+
+    margin-top: 40px;
+}
+.main{
+
+    overflow-x: scroll;
+    overflow-y: initial;
+}

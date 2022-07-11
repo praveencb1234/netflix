@@ -1,0 +1,29 @@
+.card{gap: 10px;
+padding-right: 2px;
+
+
+justify-content: space-around;
+border-radius: 20px;
+    height: 230px;
+width:200px}
+.dir{
+display: flex;
+    overflow-x: scroll;
+    overflow-y: hidden;
+
+
+}
+.dir::-webkit-scrollbar{display: none;}
+.title{
+
+    color:aqua;
+}
+.card:hover{transform: scale(1.1);
+   transition: transform 450ms;
+border-color: yellow;
+cursor: pointer;
+}
+body{
+
+    color: aqua;
+}

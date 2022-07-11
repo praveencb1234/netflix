@@ -1,0 +1,30 @@
+.banner{
+    
+    top: 0;
+background-size: cover;
+    height: 350px;
+    width: 100%;
+}
+.title{
+
+    display: flex;
+}
+.banners{
+
+    background-color:rgb(52, 50, 54);
+}
+::-webkit-scrollbar{
+    display: none;
+}
+
+.button{
+margin-top: 2px;
+border: none;
+outline: none;
+background: transparent;
+}
+.buttons{
+    margin-top: 2px;
+background: transparent;
+    background-color: transparent;
+}

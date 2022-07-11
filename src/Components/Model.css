@@ -1,0 +1,59 @@
+.img{
+
+
+
+    background-size: cover;
+border-radius: 30px;
+    height: 80px;
+    width: 90px;
+border-width: 2px;
+    border-style: groove;
+    border-left-color: rgb(18, 241, 10);
+    border-right-color: rgb(242, 16, 201);
+    border-bottom-color: rgb(241, 95, 95);
+    border-top-color: aqua;
+}
+
+.body{color: black;}
+.title{
+margin-right:- 10px;
+    color:rgb(219, 17, 185);
+    font-style: italic;
+    font-weight: bold;
+}
+.img{
+    
+margin-top: 30px;
+    height: 200px;
+    width: 200px;
+}
+.a{
+display: flex;
+    overflow-y: hidden;
+    overflow-x: scroll;
+}
+.img:hover{
+
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.rate{
+
+    margin-top: 60px;
+}
+.icon{
+
+    font-size: small;
+color: red;
+    background-color: red;
+
+}
+.vedio{
+
+    margin-left: -200px;
+}
+.b{
+overflow-x: hidden;
+    overflow-y: scroll;
+    margin-bottom: 200px;
+}

@@ -1,25 +1,50 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import Cards from './Components/Cards'
+import MainPage from './Components/MainPage'
+import NavBar from './Components/NavBar'
+import "./App.css"
+import Movieinfo from "./Components/Movieinfo"
+import { Action,Romance,Horror, Comedy, Doc, Tr } from './Components/Url'
+import { BrowserRouter, Route, Routes,Link } from 'react-router-dom'
+
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+
+
+    
+    
+
+  
+    
+
+    <div>
+
+
+
+
+<NavBar/>
+ 
+<MainPage/>
+
+
+<Cards   title={'Trending'} url={Tr}  />
+<Cards isSmall  title={'Action'} url={Action} />
+
+
+<Cards isSmall  title={'Horror'} url={Horror} />
+<Cards  isSmall title={'Comedy'} url={Comedy} />
+<Cards  isSmall title={'Documentary'} url={Doc} />
+
+
+<Cards isSmall title={'Romance'} url={Romance} />
+
+
     </div>
-  );
+  
+  )
 }
 
-export default App;
+export default App
