@@ -4,7 +4,7 @@
 
 This is a clone of netflix app ! exact clone but it provide the movie trailers,details and a Search option .The design of the app is approximately like the netflix and the datas are dynamically renderd.
 
-
+# Demo Link :https://f40973fe.netflix-clone-7z8.pages.dev
 
 # screen  shots 
 
